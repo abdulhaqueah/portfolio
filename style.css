@@ -1,0 +1,50 @@
+body{
+
+ font-family: 'Poppins', sans-serif;
+}
+
+.Header-section{
+    display: flex;
+    height: 350px;
+    margin-left: 20px;
+}
+.header_color{
+    font-size: 36px;
+    color: orchid;
+}
+.header_left{
+    width: 50%;
+}
+.right-side-header img{
+    width: 50%;
+    float: right;
+    padding: 10px 10px;
+    display: block;
+}
+.header-button{
+    background-color: orange;
+    padding: 6px 15px 6px 14px;
+    font-size: 21px;
+    color: white;
+}
+
+.second-section{
+    margin-top: 20px;
+    display: flex;
+}
+.photo-section{
+    width: 50%;
+}
+.photo-section img{
+    width: 70%;
+}
+.content-second{
+    width: 50%;
+    float: left;
+}
+
+.experience-secton {
+        background-image: url(images/exp-bg.png);
+        background-repeat: no-repeat;
+        background-position: left;
+    }
